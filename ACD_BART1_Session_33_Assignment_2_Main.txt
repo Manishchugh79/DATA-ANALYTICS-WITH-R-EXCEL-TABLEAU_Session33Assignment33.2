@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION 33: TABLEAU DESKTOP
+(CONTD.)
+
+
+
+Assignment 2
+
+
+Table of Contents
+1. Introduction	3
+2. Objective	3
+3. Prerequisites	3
+4. Associated Data Files	3
+5. Problem Statement	3
+6. Expected Output	3
+7. Approximate Time to Complete Task	3
+
+
+1. Introduction
+This assignment will help you understand the concepts learnt in the session.
+
+2. Objective
+To understand the concepts in Tableau.
+
+3. Prerequisites
+Not applicable.
+
+4. Associated Data Files
+N/A
+
+5. Problem Statement
+1. Create a Filled map by using the column State. Denote each state with different colors.
+2. Show the State Name and Total Sales in the lables
+3. Show the tooltip with State Name, Profit and Sales
+
+6. Expected Output
+N/A
+
+7. Approximate Time to Complete Task
+
+
+
+
